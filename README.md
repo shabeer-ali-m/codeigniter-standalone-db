@@ -11,7 +11,7 @@ Use Codeigniter database in your project.
 ```sh
 {
     "require": {
-        "jakub-onderka/php-console-highlighter": "0.*"
+        "codeigniter-db/codeigniter-standalone-db": "0.*"
     }
 }
 ```
