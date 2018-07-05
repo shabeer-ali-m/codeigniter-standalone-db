@@ -1,0 +1,19 @@
+{
+    "name": "codeigniter-db/codeigniter-standalone-db",
+    "description": "Codeigniter standlone database.Use the codeigniter database library separately in your project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shabeer",
+            "email": "shabeer.ali.m@gmail.com"
+        }
+    ],
+    "require": {
+        "4k1r0/codeigniterdb":  "1.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "CodeigniterDatabase": "src/"
+        }
+    }
+}
